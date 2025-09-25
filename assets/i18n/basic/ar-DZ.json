@@ -1,0 +1,21 @@
+{
+  "NAV": {
+    "INDEX": "مدونة",
+    "RSS": "RSS",
+    "SEARCH": "بحث",
+    "ABOUT": "عنا"
+  },
+  "PAGINATION": {
+    "PREV": "السابق",
+    "NEXT": "التالي"
+  },
+  "POST": {
+    "BACK": "الخلف",
+    "TOP": "أعلى"
+  },
+  "PAGE": {
+    "ERROR_404": {
+      "MESSAGE": "لا شيء هنا"
+    }
+  }
+}
