@@ -37,19 +37,7 @@ export default function BlogPost ({ post, blockMap, emailHash }) {
         fullWidth={fullWidth}
       />
 
-      {/* Comments */}
 
-  <section className="mt-8">
-    <Script
-      src="https://utteranc.es/client.js"
-      strategy="lazyOnload"
-      repo="Hawiyat-Corp/blog-comments"
-      issue-term="pathname"
-      theme="github-light"
-      crossOrigin="anonymous"
-      async
-    />
-  </section>
       {/* Back and Top */}
       <div
         className={cn(
